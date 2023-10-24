@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="maria">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="6b1e3adb-3ab4-4f41-aa9f-2b7f66e57dd4" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/example/travelexpertsrefstfulservices" />
+  </component>
+</project>
